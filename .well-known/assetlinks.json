@@ -1,1 +1,9 @@
-{}
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.interform.loyal_bit_business",
+    "sha256_cert_fingerprints":
+    ["BF:6D:39:07:EC:A6:55:F5:0E:AF:05:22:D2:43:9A:64:BF:7E:38:70:EE:D7:00:D1:05:71:29:62:D6:75:D0:EE"]
+  }
+}]
